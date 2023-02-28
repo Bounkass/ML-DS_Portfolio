@@ -156,5 +156,8 @@ Ce projet consiste à participer à une compétition organisée par  Kaggle, une
 <p float="left">
   <img src="https://github.com/Bounkass/ML-DS_Portfolio/blob/main/Images/Cnlp.png" width="49%" height="49%"/>
   <img src="https://github.com/Bounkass/ML-DS_Portfolio/blob/main/Images/pdf.png" width="49%" height="49%"/>
-  <img src="https://github.com/Bounkass/ML-DS_Portfolio/blob/main/Images/acc.png" width="48%" height="85%"/>	
+</p>
+
+<p float="center">
+  <img src="https://github.com/Bounkass/ML-DS_Portfolio/blob/main/Images/acc.png" width="98%" height="85%"/>	
 </p>
