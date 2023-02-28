@@ -32,8 +32,8 @@ L'agence "Santé publique France" a lancé un appel à projet autour des problé
 L'application proposée **nutri-vegan** permet d'abord de savoir si un aliment convient pour un régime végétarien ou végitalien, en fonction des ingrédients d'orogine animale contenants dans le produit. Cette étape est réalisée uns fois scanner le code-barres du produit. En suite l'application propose le score nutritinelle du produits vegan, détaille ses ingrédients et estime sa composition nutritionnelles, notamment les micro-nutriments. L'application ainsi peut recommander d'autre produits de la même famille qui contient plus de teneur en macro et micro-nutriments notamment le fer le calcium et de la vitamine c.
 
 <p float="left">
-  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/appli2.png" width="40%" height="45%"/>
-  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/Mcorr.png" width="54%" height="65%"/>	
+  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/Images/appli2.png" width="40%" height="45%"/>
+  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/Images/Mcorr.png" width="54%" height="65%"/>	
 </p>
 
 ## [Projet: Anticipez les besoins en consommation électrique de bâtiments](https://github.com/Bounkass/P3_OC_Parcours_IML)
@@ -54,10 +54,10 @@ Source des données : https://www.kaggle.com/city-of-seattle/sea-building-energy
 - Evaluation de  l'influence de feature Star Energy Score sur les prédictions
 
 <p align="center">
-  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/city_seattle.png" width="55%" height="40%">
+  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/Images/city_seattle.png" width="55%" height="40%">
 </p>
 <p align="center">
-  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/GBR_RFR.png">
+  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/Images/GBR_RFR.png">
 </p>
 
 ## [Projet: Segmentez des clients d'un site e-commerce](https://github.com/Bounkass/Segmentez-des-clients-d-un-site-e-commerce)
@@ -74,11 +74,11 @@ Segmentation des clients pour le site e-commerce Brazilien OLIST. Source des don
 - Proposition de contrat de maintenance basée sur une analyse de la stabilité des segments au cours du temps.
 
 <p float="left">
-  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/RFMolist.png" width="45%" height="45%"/>
-  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/clusterkm.png" width="45%" height="45%"/>	
+  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/Images/RFMolist.png" width="45%" height="45%"/>
+  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/Images/clusterkm.png" width="45%" height="45%"/>	
 </p>
 <p align="center">
-  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/radial_cl.png"  width="55%" height="65%"/>
+  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/Images/radial_cl.png"  width="55%" height="65%"/>
 </p>
 
 
@@ -96,8 +96,8 @@ La mission de ce projet:
 - Développer une API et la mettre en production.
 
 <p float="left">
-  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/comp0.png" width="54%" height="65%"/>
-  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/ap0.png" width="45%" height="65%"/>	
+  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/Images/comp0.png" width="54%" height="65%"/>
+  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/Images/ap0.png" width="45%" height="65%"/>	
 </p>
 
 
@@ -114,8 +114,8 @@ L'objectif de ce projet est la comparaison d'un modèle CNN from "Scratch" et de
 -Le meileur modèle est intégré dans une Api développée à l'aide du framework "Gradio".
 
 <p float="left">
-  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/matC.png" width="80%" height="75%"/>
-  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/dog_pred.png" width="80%" height="65%"/>	
+  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/Images/matC.png" width="80%" height="75%"/>
+  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/Images/dog_pred.png" width="80%" height="65%"/>	
 </p>
 
 
@@ -129,9 +129,31 @@ Plusieurs modèles inspirés de la classification CNN ont été développés pou
 L’objectif est de comparer, de vérifier l'efficacité de ce modèle sur des images sous-marines. Ce type d'images représentent un défi pour la tâche de la segmentation. En effet, leur contenu visuel est entièrement différent en raison des catégories d'objets spécifiques au domaine, des motifs d'arrière-plan. Des proplèmes liés à la mauvaise apparence visuelle, de la turbidité et des artefacts de distorsion et de la diffusion de la lumière. 
 
 <p align="center">
-  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/test_unet.png" width="85%" height="70%">
+  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/Images/test_unet.png" width="85%" height="70%">
 </p>
 
 
 ## [Projet: Participez-a-une-competition-Kaggle](https://github.com/Bounkass/Participez-a-une-competition-Kaggle)
 
+Ce projet consiste à participer à une compétition organisée par  Kaggle, une plateforme qui organise des compétitions en data science et qui récompense les meilleurs analystes internationaux.
+
+## Context de sujet choisi: 
+
+- L'expression écrite est fondamentale dans l’apprentissage d’une seconde langue
+
+- La population d’apprenant de l’anglais est en croissance rapide, l’évaluation des  compétences linguistiques est une tâche fatigante pour les enseignants. 
+
+- Les outils de l’ évaluation existants sont moins efficaces et parfois biaisée au détriment de l'apprenant.
+
+### Mission:
+
+- Développer un modèle de ML afin d’évaluer avec précision les compétences linguistiques des apprenants de la langue anglaise.
+
+### Les données: 
+
+- Des essais de rédaction d'expressions écrites (en anglais) notés selon six mesures analytiques: cohésion, syntaxe, vocabulaire, phraséologie, grammaire et conventions.
+
+<p float="left">
+  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/Images/Cnlp.png" width="49%" height="99%"/>
+  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/Images/acc.png" width="48%" height="99%"/>	
+</p>
