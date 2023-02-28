@@ -154,6 +154,7 @@ Ce projet consiste à participer à une compétition organisée par  Kaggle, une
 - Des essais de rédaction d'expressions écrites (en anglais) notés selon six mesures analytiques: cohésion, syntaxe, vocabulaire, phraséologie, grammaire et conventions.
 
 <p float="left">
-  <img src="https://github.com/Bounkass/ML-DS_Portfolio/blob/main/Images/Cnlp.png" width="49%" height="99%"/>
+  <img src="https://github.com/Bounkass/ML-DS_Portfolio/blob/main/Images/Cnlp.png" width="49%" height="49%"/>
+	<img src="https://github.com/Bounkass/ML-DS_Portfolio/blob/main/Images/pdf.png" width="49%" height="49%"/>
   <img src="https://github.com/Bounkass/ML-DS_Portfolio/blob/main/Images/acc.png" width="48%" height="99%"/>	
 </p>
